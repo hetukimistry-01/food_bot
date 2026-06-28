@@ -86,7 +86,7 @@ Two **custom `BaseTool` subclasses** handle all database interaction:
 | *"Get order #5"* | Agent calls `get_order(5)` → returns order details |
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - **Total Orders**, **Total Revenue**, **Average Order Value** — live metrics
 - **Best-Selling Items** — bar chart + table sorted by units sold
@@ -94,6 +94,6 @@ Two **custom `BaseTool` subclasses** handle all database interaction:
 
 ---
 
-## 🤖 LLM
+## LLM
 
 Uses `llama-3.1-8b-instant` via the **Groq free tier**
